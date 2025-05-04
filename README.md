@@ -21,7 +21,7 @@ I'm a **Frontend Developer** with experience building sleek, responsive web apps
 ### Superpowers
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-Adaptive%20UI-teal?style=for-the-badge)
 ![Performance Tuning](https://img.shields.io/badge/Performance_Tuning-Optimization-orange?style=for-the-badge)
-![Teamwork](https://img.shields.io/badge/Teamwork-Collab%2C%20Reviews-gray?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Teamwork%20-%20Agile%2C%20Code%20Review%20-%2009f7f7?style=for-the-badge)
 
 ## 🌟 Projects
 
