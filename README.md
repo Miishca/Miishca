@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hey, I'm Mykhailo! 🚀
 
 I'm a **Frontend Developer** with experience building sleek, responsive web apps with **React**, **TypeScript**, **JavaScript**, **HTML**, **CSS**, and **Git**. I've created projects, focusing on clean code, fast performance, and adaptive UIs. I enjoy team collabs, code reviews, and nailing deadlines! 😎
